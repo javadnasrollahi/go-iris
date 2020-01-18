@@ -1,0 +1,8 @@
+ServerFiles/*
+programfile/*
+*.exe
+*.zip
+main
+log
+web/programFiles/pcapTmp/*
+web/programFiles/pcapBank/*
